@@ -1,4 +1,3 @@
-# Hiking-App
 # Django Hiking Application
 
 The Django Hiking Application is a web-based platform built with Django, designed to help hikers plan, track, and share their hiking adventures. It provides a user-friendly interface for discovering trails, organizing trips, and connecting with other hikers.
